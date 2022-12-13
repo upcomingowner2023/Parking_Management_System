@@ -413,7 +413,8 @@ def demo_mode():
             border += "-"
     border += "---|\n"
 
-    '''v1 = enter_vehicle(1, "aaa-bbbb", 0, 3)
+   # input of the vehicle: It is not mandatory to add.
+'''v1 = enter_vehicle(1, "aaa-bbbb", 0, 3)
     v2 = enter_vehicle(3, "ccc-dddd", 1, 2)
     v3 = enter_vehicle(2, "eee-ffff", 2, 0)
     v4 = enter_vehicle(1, "ggg-hhhh", 3, 1)
